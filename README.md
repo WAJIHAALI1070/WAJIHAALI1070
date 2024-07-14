@@ -21,19 +21,5 @@ A passionate Electrical Engineer from NUST, Pakistan. blending my expertise with
 
 
 ### Achievements: 
-
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=wajihaali1070&show_icons=true&locale=en" alt="wajihaali1070" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajihaali1070&show_icons=true&locale=en&layout=compact" alt="wajihaali1070" />
-    </td>
-  </tr>
-</table>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajihaali1070&" alt="wajihaali1070" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajihaali1070&show_icons=true&locale=en" alt="wajihaali1070" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajihaali1070&" alt="wajihaali1070" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajihaali1070&show_icons=true&locale=en&layout=compact" alt="wajihaali1070" /></p>
