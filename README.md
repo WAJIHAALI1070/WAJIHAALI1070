@@ -21,7 +21,7 @@ A passionate Electrical Engineer from NUST, Pakistan. blending my expertise with
 
 
 ### Achievements: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajihaali1070&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" alt="wajihaali1070" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajihaali1070&show_icons=true&locale=en&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" alt="wajihaali1070" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajihaali1070&show_icons=true&locale=en&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" alt="wajihaali1070" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajihaali1070&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" alt="wajihaali1070" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wajihaali1070&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" alt="wajihaali1070" /></p>
 
