@@ -11,6 +11,7 @@ A passionate Electrical Engineer from NUST, Pakistan. blending my expertise with
 <p align="left">
 <a href="https://twitter.com/wajia_ali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wajia_ali_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wajiha ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajiha ali" height="30" width="40" /></a>
+<a href="https://medium.com/@neurocybex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neurocybex" height="30" width="40" /></a>
 </p>
 
 ### Expertise: 
